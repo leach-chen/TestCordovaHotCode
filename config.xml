@@ -23,4 +23,9 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <plugin name="cordova-hot-code-push-plugin" spec="1.5.3" />
+    <chcp>
+        <config-file url="http://127.0.0.1/chcp.json" />
+    </chcp>
+    <engine name="android" spec="^7.1.4" />
 </widget>
