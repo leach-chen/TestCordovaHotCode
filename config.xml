@@ -25,7 +25,7 @@
     </platform>
     <plugin name="cordova-hot-code-push-plugin" spec="1.5.3" />
     <chcp>
-        <config-file url="http://127.0.0.1/chcp.json" />
+        <config-file url="http://192.168.0.104/chcp.json" />
     </chcp>
     <engine name="android" spec="^7.1.4" />
 </widget>
